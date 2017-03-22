@@ -1,1 +1,3 @@
-# Automated-Suites
+# AutomatedTesting-Selenium-UI
+
+mvn test
